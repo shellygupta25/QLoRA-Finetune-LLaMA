@@ -65,5 +65,7 @@ The following are intentionally excluded from this repository:
 
 ### Build the Docker Image
 
-```bash./model_training_on.sh
+```bash
+
+./model_training_on.sh
 
